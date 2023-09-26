@@ -21,8 +21,7 @@ This is my repo for data journalism at Medill D.C., fall 2023.
 
 ## This is a table of the class
 
----------------
-Name|Concentration
+| Name| Concentration |
 ---------------
 | Nicole | PPFA |
 | Meaghan | PPFA |
