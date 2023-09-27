@@ -56,12 +56,14 @@ There have been quite a few stories and investigations done on commute times and
 
 Data points I would be interested in acquiring include: per capita income, national income, income tax, property taxes.
 
+
 | Organization | Type of Data | Recent Reporting |
-|-—-|-–-|-–-| 
+| --- | --- | --- |
 | D.C. Policy Center | Original Research | Study on gap in reported D.C. employees, post-pandemic (see below for more) |
 | NPR | Sourced from Metropolitan Washington Council of Governments | Exportable .csv | 
 | Metropolitan Washington Council of Governments | Survey | In correlation to commute times, downloadable PDF in NPR story | 
-| Census Data | Original Data | Track household size?|
+| Census Data | Original Data | Track household size |
+
 
 ## Timeliness
 
