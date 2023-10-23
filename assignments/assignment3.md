@@ -11,6 +11,8 @@ Each spreadsheet held the "Means of Transportation to Work" under the following 
 * "Alone" (I am confused as to if this means single or single-household?)
 * Above 16 years old
 
+The difference: the race.
+
 ## Cleaning the Data
 
 1. I cleaned the data by adding all three spreadsheets to one master spreadsheet that I called "Alone workers commute style 2022."
