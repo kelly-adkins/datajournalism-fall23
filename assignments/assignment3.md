@@ -38,4 +38,4 @@ I found:
 | Asian | 6598|
 | Hispanic or Latino |15856|
 
-Answer: Work-from-home employees are most likley to be white, and least likely to be Asian. 
+Answer: Work-from-home employees are most likley to be White, and least likely to be Asian. 
