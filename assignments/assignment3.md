@@ -11,7 +11,7 @@ Each spreadsheet held the "Means of Transportation to Work" under the following 
 * "Alone" (I am confused as to if this means single or single-household?)
 * Above 16 years old
 
-The difference: the race.
+The difference -- the race.
 
 ## Cleaning the Data
 
