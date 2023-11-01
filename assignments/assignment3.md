@@ -39,3 +39,84 @@ I found:
 | Hispanic or Latino |15856|
 
 Answer: Work-from-home employees are most likley to be White, and least likely to be Asian. 
+
+# More Work
+Apply similar data to other major cities, and see what the difference in race demographics are. Examples: 
+
+(East Coast)
+* Philadelphia
+* Baltimore
+* Providence
+* New York (this will be skewed in terms of population)
+* Boston
+(South)
+* Richmond
+* Raleigh
+* Austin
+* Dallas
+* Chattanooga
+(Midwest)
+* Chicago
+* Minneapolis
+* St. Louis
+* Clevland
+(West)
+* LA
+* San Diego
+* Seattle
+* Portland
+* San Fran
+* Sacremento
+* Anchorage
+* Honolulu
+
+Or, apply to the top tech citites in the U.S.: 
+
+* Seattle
+* Austin
+* Atlanta
+* Washington, D.C.
+* San Francisco
+* Boston
+* Dallas
+* Raleigh
+* Huntsville
+* Baltimore
+* San Jose
+* Denver
+* Chicago
+* New York
+* Charlotte
+* Los Angeles
+* Boulder
+* Colorado Springs
+* Trenton
+* Durham
+* Salt Lake City
+* San Diego
+* Philadelphia
+* Portland
+* Detroit
+* Columbus
+* Madison
+* Phoenix
+* Tampa
+* Kansas City
+* Minneapolis
+* Miami
+* Cincinnati
+* Des Moines
+* Lansing
+* Hartford
+* Tallahassee
+* East Lansing
+* Houston
+* Pittsburgh
+* Sacramento
+* Cambridge
+* Irvine
+* Provo
+* Jacksonville
+* Corvallis
+* Omaha
+* Sierra Vista
