@@ -54,8 +54,10 @@ The average tech salary in San Francisco could be worth more in most large citie
 Why is this? It chalks up to cost of living, as anticipated. 
 
 Of these 8 cities, could average salary growth be increasing due to the type of companies? 
- 
-https://www.datawrapper.de/_/ztHt8/ 
+
+ ![ztHt8-salaries-aren-t-that-different-in-larger-companies (1)](https://github.com/kelly-adkins/datajournalism-fall23/assets/146041168/a4b31e42-ff1c-4860-bf64-b63274a99742)
+
+[Link to visualization](https://datawrapper.dwcdn.net/ztHt8/3/)
 
 
 2. 	How has the pandemic kick-started remote work in “atypical” cities (less populated, less tech-heavy)
@@ -79,8 +81,9 @@ A 2022 [study]( https://www.nber.org/system/files/working_papers/w30197/w30197.p
 Some key findings: 
 *	In 2022, Work types influenced the shift to remote work, where 82 responses were given that it was associated with more part-time, independent contractors, leased workers, domestic outsourcing, offshoring, and employment of the physically-challenged 
 *	Remote work or work-from-home positions were used to incentivize job-seekers and current hires
- 
-https://www.datawrapper.de/_/r4oFn/ 
+
+![why remote jobs were offered in 2022](https://github.com/kelly-adkins/datajournalism-fall23/assets/146041168/321ef9f2-3d67-47a4-9c28-5eaf29870e71)
+// add in the data source here
 
 # Methodology (Mine)
 
