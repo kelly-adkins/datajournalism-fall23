@@ -83,7 +83,9 @@ Some key findings:
 *	Remote work or work-from-home positions were used to incentivize job-seekers and current hires
 
 ![why remote jobs were offered in 2022](https://github.com/kelly-adkins/datajournalism-fall23/assets/146041168/321ef9f2-3d67-47a4-9c28-5eaf29870e71)
-// add in the data source here
+
+[Link to study](https://www.nber.org/system/files/working_papers/w30197/w30197.pdf) | //add link to spreadsheet with page name
+
 
 # Methodology (Mine)
 
