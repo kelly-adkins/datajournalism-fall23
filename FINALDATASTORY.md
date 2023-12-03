@@ -10,7 +10,7 @@ The Washington Post reported that [over a third]( https://www.washingtonpost.com
 
 In 2022, work from home workers took up 15% of the commuting style according to the American Community Survey (ACS). In comparison to the 16% of all other commute types – that is a substantial portion of working Americans. In the past 4 years remote work has continuously rivaled other commute types, despite seeing a slight decrease since 2021.
 
-<div style="min-height:323px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ZamfZ/embed.js?v=2" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/ZamfZ/full.png" alt="" /></noscript></div>
+![Alt text](<ZamfZ-working-from-home-is-the-new-norm-for-non-solo-drivers (1).png>)
  
 https://www.datawrapper.de/_/ZamfZ/
 
@@ -66,13 +66,13 @@ According to [Gusto study]( https://gusto.com/company-news/remote-hiring-brings-
 *	Before March 2020, 38% of all hiring was in: New York City, Los Angeles, Chicago, San Francisco, and District of Columbia. These cities were also the five largest metro areas by GDP.
 *	After March 2020, San Francisco/New York/Boston/Los Angeles all lost their remote work market share, and smaller cities picked up some
 
- 
-https://www.datawrapper.de/_/0ecUL/ 
+When it says 38% of all hiring was in the 5 largest metro areas by GDP, Gusto measured how many companies used its services for hiring individuals. When analyzing this data, they found that the following cities received an increase in hiring measures through the company: Memphis, Tampa, Colorado Springs, Houston, Dallas, and Des Moines.
 
-Gusto’s sample also reflected the difference between remote and non-remote workers' income, by zip code. 
+![Alt text](<0ecUL-remote-work-in-non-leading-cities-spiked-after-covid-19 (1).png>)
+https://datawrapper.dwcdn.net/0ecUL/2/
 
- 
-https://www.datawrapper.de/_/Q9kXX/
+![Alt text](Q9kXX-the-work-from-home-gap-exists-outside-of-tech-jobs.png)
+https://datawrapper.dwcdn.net/Q9kXX/2/ 
 
 3. 	How are employers using remote work to incentivize job-seekers and cut their own costs?
 
