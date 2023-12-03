@@ -23,7 +23,7 @@ The tech industry is notorious for hosting remote-only or remote-dominated teams
 
 The national average of remote workers in 2022 was 15%. Comparing that to the percentages in the most populated cities in America and the largest tech working cities in America can demonstrate two of the extremes of this spectrum.
 
-Using some more digging of Census Bureau ACS data, I was able to find the work-from-home employees per city. I isolated it to the most populous cities – which were found by a [different]() Census report as Houston, Los Angeles, Phoenix, Chicago, New York City – and the biggest tech cities, named above.  
+Using some more digging of Census Bureau ACS data, I was able to find the work-from-home employees per city. I isolated it to the most populous cities – which were [indentified by](https://www.census.gov/newsroom/press-releases/2023/subcounty-metro-micro-estimates.html) a Census report as Houston, Los Angeles, Phoenix, Chicago and New York City, then I found the [corresponding data](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html) – and the biggest tech cities, named above.
 
 It turns out, population does play an impact on work-from-home employees. 
 
