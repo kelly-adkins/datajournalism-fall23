@@ -27,25 +27,14 @@ https://www.datawrapper.de/_/DRktU/
 
 The tech industry is notorious for hosting remote-only or remote-dominated teams, even before the pandemic. It poses the question: would the percentage of remote workers in tech cities outweigh others? 
 
-The national average of remote workers in 2022 was 15%. Comparing that to the percentages in the most populated cities in America and the largest tech working cities in America can demonstrate two of the extremes of this spectrum. //- figure out the percentages here
+The national average of remote workers in 2022 was 15%. Comparing that to the percentages in the most populated cities in America and the largest tech working cities in America can see if there is a relationship. 
 
 Using ACS data, I was able to find the work-from-home employees per city. I isolated it to the most populous cities – which were [indentified by](https://www.census.gov/newsroom/press-releases/2023/subcounty-metro-micro-estimates.html) a Census report as Houston, Los Angeles, Phoenix, Chicago and New York City, then I found the [corresponding data](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html) – and the biggest tech cities, named above.
 
-//- this will need to be taken out or fixed entirely
-It turns out, population does play an impact on work-from-home employees. 
+It turns out, population does play an impact on work-from-home employees, but Phoenix is proof that bigger populations do not always mean remote work will be higher than lower populations.
 
-<div style="min-height:614px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/dCIkt/embed.js?v=2" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/dCIkt/full.png" alt="" /></noscript></div>
+![Alt text](<Untitled design (6).png>)
  
-https://datawrapper.dwcdn.net/dCIkt/2/ 
-
-This kind of already makes sense, though, because of per capita assumptions. Let’s look at how they directly compare. 
- 
-<div style="min-height:458px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/aO32f/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/aO32f/full.png" alt="" /></noscript></div>
-https://datawrapper.dwcdn.net/aO32f/1/ 
-
- <div style="min-height:472px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/tESAs/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/tESAs/full.png" alt="" /></noscript></div>
-https://datawrapper.dwcdn.net/tESAs/1/ 
-
 While tech cities still sit way above the national percentage, it is less of a gap that the most populated cities give. 
 
 # More depth and possible stories
@@ -91,7 +80,7 @@ Some key findings:
 
 ![why remote jobs were offered in 2022](https://github.com/kelly-adkins/datajournalism-fall23/assets/146041168/321ef9f2-3d67-47a4-9c28-5eaf29870e71)
 
-[Link to study](https://www.nber.org/system/files/working_papers/w30197/w30197.pdf) | //add link to spreadsheet with page name
+[Link to study](https://www.nber.org/system/files/working_papers/w30197/w30197.pdf)
 
 Further research and analysis could find out why remote workers are being paid more. One angle to consider would be that remote workers in technical fields (even like accounting) could require funding a desktop set-up similar to the on-site job. Perhaps funding a home-office is cheaper than renting a business suite for multiple employees, plus the desks, office chairs, and desktops? Or, are remote workers more skilled or considered more valuable because they are autonomous, require minimal supervision, and mitigate risk? I would be interested in learning what kind of data curation would go into answering those questions.
 
@@ -106,6 +95,8 @@ Further research and analysis could find out why remote workers are being paid m
 *	Clean data again to make two stacked bar graphs that compare the population to industry by percentage points. Calculate the percentage points of each commuting style per city based on the data, using a percentage formula. Use ChatGPT to double-check the math, because #factchecking 
 
 Note: Only primary methology included. I did not list my methodology for my additional background reporting (correlated to the section “More depth and possible stories”). 
+
+To see my comprehensive data set, you can view the [Excel file here](https://1drv.ms/x/s!Atvj8CutEHdWecJjXdIIqjzXGkg)
 
 # Methodology (Sources)
 
