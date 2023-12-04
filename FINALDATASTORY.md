@@ -4,27 +4,34 @@ FINAL PROJECT
 
 # What’s the story?
 
-Remote work has continued to grow in post-pandemic U.S. according to data from the Census Bureau American Community Survey, 2022. With it being the new norm, it could impact job-seekers’ relocation or industry of choice and wage-setting by employers. 
+Remote work has continued to grow in post-pandemic U.S. according to data from the Census Bureau American Community Survey, 2022. Work-from-home jobs are increasing in popularity, where large metropolitan areas are seeing as much as X% of employees using this work-style.
 
-The Washington Post reported that [over a third]( https://www.washingtonpost.com/dc-md-va/2023/09/14/dc-remote-work-jobs-data-census-bureau/) of D.C. residents worked from home in 2022. While this is a decline since 2021, this data will serve as a more reliable baseline in the post-pandemic years to come. It turns out, the District of Columbia is simply following suit in the national trend. 
+The technology industry has relied on remote work over [the past few decades](https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/29/the-past-present-and-future-of-remote-work/?sh=2f25132dcb2b), and now that the pandemic kick-started remote work capabilites other industries are taking suit. The shift to remote work could be a result of employees [demanding](https://www.ciodive.com/news/Tech-talent-want-remote-hybrid-flexibility/636525/) the change in lifestyle, or employeers using it as a [tool](https://www.nber.org/system/files/working_papers/w30197/w30197.pdf) to keep operation costs and salaries down. Regardless, it makes you wonder if remote work is worth trying, given consideration of the working-city location and base salary.
 
-In 2022, work from home workers took up 15% of the commuting style according to the American Community Survey (ACS). In comparison to the 16% of all other commute types – that is a substantial portion of working Americans. In the past 4 years remote work has continuously rivaled other commute types, despite seeing a slight decrease since 2021.
+The Washington Post reported that [over a third]( https://www.washingtonpost.com/dc-md-va/2023/09/14/dc-remote-work-jobs-data-census-bureau/) of D.C. residents worked from home in 2022. While this is a decline since 2021, this data will serve as a more reliable baseline in the post-pandemic years to come. It turns out, the District of Columbia is simply following suit in the national trend.
+
+In 2022, work from home workers took up 15% of the commuting style according to the American Community Survey (ACS). In the past 4 years remote work has increasingly rivaled those who drive into the office independently, despite seeing a slight decrease since 2021.
 
 ![Alt text](<ZamfZ-working-from-home-is-the-new-norm-for-non-solo-drivers (1).png>)
  
 https://www.datawrapper.de/_/ZamfZ/
 
 
-Hired, career marketplace specializing in tech and sales that matches talent with a company, released its 2022 State of Tech Salaries report, which included integral data to understand how remote salaries – on average – in America and leading countries have changed, and compares it to the technology industry primarily. Although, there are bouts of good data in there for other industries. 
+Hired, a career marketplace specializing in tech and sales that matches job seekers with a company,  found that the ratio of average salaries for remote work to on-site was higher in big tech cities. The report also identified the top five cities working in tech were San Francisco, Seattle, New York, Boston and Austin.
+The tech industry is notorious for hosting remote-only or remote-dominated teams, even before the pandemic. It poses the question: would the percentage of remote workers in tech cities outweigh others?
 
 A key finding was that the percentage ratio of average salaries for remote work to on-site was [higher]( https://www.datawrapper.de/_/DRktU/) in big tech cities. The report also identified the top five cities working in tech were San Francisco, Seattle, New York, Boston and Austin. 
 
+![Alt text](<DRktU-remote-work-nearly-always-pays-better-in-leading-cities (1).png>)
+https://www.datawrapper.de/_/DRktU/
+
 The tech industry is notorious for hosting remote-only or remote-dominated teams, even before the pandemic. It poses the question: would the percentage of remote workers in tech cities outweigh others? 
 
-The national average of remote workers in 2022 was 15%. Comparing that to the percentages in the most populated cities in America and the largest tech working cities in America can demonstrate two of the extremes of this spectrum.
+The national average of remote workers in 2022 was 15%. Comparing that to the percentages in the most populated cities in America and the largest tech working cities in America can demonstrate two of the extremes of this spectrum. //- figure out the percentages here
 
-Using some more digging of Census Bureau ACS data, I was able to find the work-from-home employees per city. I isolated it to the most populous cities – which were [indentified by](https://www.census.gov/newsroom/press-releases/2023/subcounty-metro-micro-estimates.html) a Census report as Houston, Los Angeles, Phoenix, Chicago and New York City, then I found the [corresponding data](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html) – and the biggest tech cities, named above.
+Using ACS data, I was able to find the work-from-home employees per city. I isolated it to the most populous cities – which were [indentified by](https://www.census.gov/newsroom/press-releases/2023/subcounty-metro-micro-estimates.html) a Census report as Houston, Los Angeles, Phoenix, Chicago and New York City, then I found the [corresponding data](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html) – and the biggest tech cities, named above.
 
+//- this will need to be taken out or fixed entirely
 It turns out, population does play an impact on work-from-home employees. 
 
 <div style="min-height:614px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/dCIkt/embed.js?v=2" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/dCIkt/full.png" alt="" /></noscript></div>
@@ -86,6 +93,7 @@ Some key findings:
 
 [Link to study](https://www.nber.org/system/files/working_papers/w30197/w30197.pdf) | //add link to spreadsheet with page name
 
+Further research and analysis could find out why remote workers are being paid more. One angle to consider would be that remote workers in technical fields (even like accounting) could require funding a desktop set-up similar to the on-site job. Perhaps funding a home-office is cheaper than renting a business suite for multiple employees, plus the desks, office chairs, and desktops? Or, are remote workers more skilled or considered more valuable because they are autonomous, require minimal supervision, and mitigate risk? I would be interested in learning what kind of data curation would go into answering those questions.
 
 # Methodology (Mine)
 
