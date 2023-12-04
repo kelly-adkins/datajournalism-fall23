@@ -117,5 +117,4 @@ Note: Only primary methology included. I did not list my methodology for my addi
 
 # Next Data Steps
 
-Dive deeper into the Census data, and find enough to create a choropleth map per each major city in the U.S., and compare it to the national WFH average. 
-![image](https://github.com/kelly-adkins/datajournalism-fall23/assets/146041168/597dc37b-afc8-4030-b1e3-c34a07a9b033)
+Dive deeper into the Census data, and find enough to create a choropleth map per each major city in the U.S., and compare it to the national WFH average. This could more directly compare relationships between population, location, and industry.
